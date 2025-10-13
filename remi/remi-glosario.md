@@ -1,3 +1,34 @@
+# 📘 Glosario técnico patrimonial – REMI
+
+Cada palabra aquí sembrada es una raíz de memoria, trazabilidad y respeto.
+
+---
+
+## 🧩 Patrimonio
+Conjunto de bienes, saberes y gestos con valor histórico, cultural o técnico que merecen ser protegidos, documentados y ritualizados.
+
+**Ejemplo:** El script `remi-dialogue.py` forma parte del patrimonio técnico de MintBridgeXFCE.
+
+---
+
+## 🛡️ Blindaje
+Proceso de protección técnica y simbólica que asegura la integridad, reproducibilidad y trazabilidad de cada módulo o archivo.
+
+**Ejemplo:** MintBridgeXFCE aplica blindaje al migrar configuraciones XFCE en hardware legado.
+
+---
+
+## 🔁 Reproducibilidad
+Capacidad de repetir un proceso técnico con resultados consistentes, validables y trazables, sin depender de variables externas.
+
+**Ejemplo:** El toolkit MintBridgeXFCE garantiza reproducibilidad en migraciones entre equipos.
+
+---
+
+## 📜 Bitácora
+Documento vivo que registra cada fase técnica, cada gesto emocional y cada validación con fecha, propósito y resonancia.
+
+**Ejemplo:** `mintbridge-auth.md` es la bitácora patrimonial que acompaña a REMI.
 ## 🧠 Glosario técnico-patrimonial – Módulo multilingüe
 
 ### 🔹 `rae:`  

@@ -46,6 +46,21 @@ def respond_to(query):
             return "🧠 REMI vous salue !"
         else:
             return "🧠 REMI te saluda."
+    if key.startswith("rae:"):
+        termino = key.replace("rae:", "").strip()
+        return f"📚 Consulta RAE activada para '{termino}'. Puedes buscarlo en https://dle.rae.es/{termino}"
+
+    if key.startswith("wiki:"):
+        termino = key.replace("wiki:", "").strip().replace(" ", "_")
+        return f"🌐 Consulta Wikipedia activada para '{termino}'. Puedes leer en https://es.wikipedia.org/wiki/{termino}"
+
+    if key.startswith("mdn:"):
+        termino = key.replace("mdn:", "").strip().replace(" ", "-")
+        return f"🧠 Consulta MDN activada para '{termino}'. Puedes explorar en https://developer.mozilla.org/es/docs/Web/{termino}"
+
+    if key.startswith("rosetta:"):
+        termino = key.replace("rosetta:", "").strip().replace(" ", "_")
+        return f"🔣 Consulta Rosetta Code activada para '{termino}'. Puedes ver ejemplos en https://rosettacode.org/wiki/{termino}"
 
     return "REMI no reconoce esa consulta aún."
 
