@@ -1,3 +1,12 @@
+## 🧠 Fase multilingüe avanzada – Intención en frases largas
+
+📅 Fecha: 13 de octubre de 2025  
+🔧 Expansión:
+- REMI reconoce saludos embebidos en frases largas en español, inglés y francés
+- Se amplió el detector de intención con variantes como “saludarme”, “greeting”, “salut”, “saluer”
+- Se corrigió la indentación y se consolidó la lógica dentro de `respond_to(query)`
+
+🧩 Esta fase honra la escucha profunda, la adaptabilidad lingüística y el respeto en cada gesto de diálogo.
 ## 🧩 Fase de Expansión – REMI aprende lenguajes
 
 📅 Fecha: 13 de octubre de 2025  
