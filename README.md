@@ -1,6 +1,4 @@
----
-
-## 📜 Letter to the Linux Mint Project Leader
+📜 Letter to the Linux Mint Project Leader
 
 To Mr. Clement Lefebvre,  
 Linux Mint Project Leader – Linux Mint Development Team
@@ -13,10 +11,10 @@ The toolkit includes:
 - Hash-based asset validation  
 - Bilingual technical guidance (English/Spanish)  
 - Avatar optimization scripts for forum integration  
-- Automation for forum setup and community onboarding  
+- Automation for forum setup and community onboarding
 
 You can find the project here:  
-🔗 [https://github.com/jramonrivasg/MintBridgeXFCE](https://github.com/jramonrivasg/MintBridgeXFCE)
+🔗 [MintBridgeXFCE GitHub Repository](https://github.com/jramonrivasg/MintBridgeXFCE)
 
 I deeply value the work you and the Linux Mint team do to keep the project alive, accessible, and community-driven. My goal is to contribute to that mission by offering tools that reinforce reproducibility, patrimonial traceability, and technical stewardship.
 
